@@ -1,0 +1,12 @@
+h3 {
+ font-size: 24px;
+ text-shadow: rgba(89, 0, 255, 0.856) 1px 0 10px;;
+}
+
+ol{
+    list-style: decimal-leading-zero;
+}
+
+ul li{
+    list-style:lower-alpha;
+}
